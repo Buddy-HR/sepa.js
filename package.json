@@ -20,12 +20,12 @@
     "test": "jest"
   },
   "dependencies": {
-    "@xmldom/xmldom": "*"
+    "@xmldom/xmldom": "*",
+    "uk-modulus-checking": "^0.1.4"
   },
   "devDependencies": {
     "eslint": "^8.39.0",
     "eslint-plugin-jest": "^27.6.0",
-    "jest": "^29.7.0",
     "pre-commit": "*",
     "uglify-js": "^3.3.20",
     "xpath": "^0.0.33"
